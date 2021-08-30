@@ -1,0 +1,26 @@
+{
+  "name": "voteing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export" 
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.4.3",
+    "fs-extra": "^10.0.0",
+    "next": "^11.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3",
+    "solc": "^0.8.7-fixed",
+    "web3": "^1.5.2"
+  }
+}
